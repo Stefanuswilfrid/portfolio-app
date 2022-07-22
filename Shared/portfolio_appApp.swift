@@ -30,7 +30,7 @@ struct portfolio_appApp: App {
                     LocView()
                 }
                 .tabItem{
-                    Image(systemName: "person.circle.fill")
+                    Image(systemName: "globe")
                     Text("Where I Live ")
                 }
             }
